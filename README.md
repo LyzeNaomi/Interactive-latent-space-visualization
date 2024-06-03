@@ -5,8 +5,7 @@ This project is about an interactive visualization of models' latent spaces usin
 
 ``` Press the play button to visualize our interactive dashboard.```
 
-[GitHub Pages](https://pages.github.com/)
-This dashboad follows from the work in this research paper [Understanding Deep Learning for LoS preidction via Latent Space Visualization](https://www.techrxiv.org/users/693475/articles/683131-understanding-deep-learning-for-los-prediction-via-latent-space-visualization) and conveys the following information:
+This dashboad follows from the work in this research paper [*Understanding Deep Learning for LoS preidction via Latent Space Visualization*](https://www.techrxiv.org/users/693475/articles/683131-understanding-deep-learning-for-los-prediction-via-latent-space-visualization) and conveys the following information:
 
 1.	First, the landing page made up of 2 sections. 
 a.	The left section: shows the 2D t-SNE projection of the LSTM model latent space. Each marker represents a patient from the test set and the maker’s color and shape is associated with their observed LoS (because it is retrospective data). 
